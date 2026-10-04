@@ -39,7 +39,6 @@ apis:
   - name: Phone Validation
     description: "Validate phone numbers globally"
     humanURL: https://www.abstractapi.com/phone-validation-api
-    baseURL: https://www.abstractapi.com/phone-validation-api
     tags:
       - Phone
     properties:
